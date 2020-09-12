@@ -1,11 +1,5 @@
-## GitHub Username
-mchisem
-
 # TeamProfileGenerator
-<img width="1078" alt="team-profile-generator-example.png" src="Team-Profile-Generator/image/teamProfileExample.png"
->
-
-![Screenshot](teamProfileExample.png)
+<img width="1078" alt="team-profile-generator-example.png" src="teamProfileExample.png">
 
 ## Description
 
@@ -57,6 +51,6 @@ npm run test
 ## Questions
 
 <img src="https://avatars0.githubusercontent.com/u/58449282?v=4&v=4"
-alt="avatar" width= "30px" style= "border-radius: 50%"/>
+alt="avatar" width= "35px" style= "border-radius: 50px"/>
 
 Questions? Contact me at [mchisem](http://github.com/mchisem) or [chisem.maya@gmail.com](http://chisem.maya@gmail.com)
