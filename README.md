@@ -1,9 +1,10 @@
 # TeamProfileGenerator
-<img width="1078" alt="team-profile-generator-example.png" src="teamProfileExample.png">
 
 ## Description
 
 Answer some easy questions in node app.js and have your team's user profiles generated!
+
+<img width="1070" alt="team-profile-generator-example.png" src="teamProfileExample.png">
 
 ## Table of Contents
 
@@ -51,6 +52,6 @@ npm run test
 ## Questions
 
 <img src="https://avatars0.githubusercontent.com/u/58449282?v=4&v=4"
-alt="avatar" width= "35px" style= "border-radius: 50px"/>
+alt="avatar" width= "40px" style= "border-radius: 50px"/>
 
 Questions? Contact me at [mchisem](http://github.com/mchisem) or [chisem.maya@gmail.com](http://chisem.maya@gmail.com)
