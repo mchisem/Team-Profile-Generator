@@ -51,7 +51,4 @@ npm run test
 
 ## Questions
 
-<img src="https://avatars0.githubusercontent.com/u/58449282?v=4&v=4"
-alt="avatar" width= "40px" style= "border-radius: 50px"/>
-
 Questions? Contact me at [mchisem](http://github.com/mchisem) or [chisem.maya@gmail.com](http://chisem.maya@gmail.com)
