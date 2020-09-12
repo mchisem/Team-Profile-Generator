@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchisem/Team-Profile-Generator.git"
+  },
+  "author": "Maya Chisem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchisem/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/mchisem/Team-Profile-Generator#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "node": "^14.8.0",
+    "package-lock.json": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
